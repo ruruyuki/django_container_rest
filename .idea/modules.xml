@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DockerDjango/.idea/Dockerdjango.iml" filepath="$PROJECT_DIR$/../DockerDjango/.idea/Dockerdjango.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/django_container_rest.iml" filepath="$PROJECT_DIR$/.idea/django_container_rest.iml" />
       <module fileurl="file://$USER_HOME$/python_wrok/.idea/python_wrok.iml" filepath="$USER_HOME$/python_wrok/.idea/python_wrok.iml" />
     </modules>
